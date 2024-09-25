@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T23:13:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:32:21.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
