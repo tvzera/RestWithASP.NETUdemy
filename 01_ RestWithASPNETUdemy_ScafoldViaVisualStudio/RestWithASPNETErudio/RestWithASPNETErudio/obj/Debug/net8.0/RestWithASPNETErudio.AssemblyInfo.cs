@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestWithASPNETErudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391ab153954918e0252798a8d217bd06fb6ff6c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a621fd9a36d83eeb419e581140dd48f7c114c0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestWithASPNETErudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestWithASPNETErudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

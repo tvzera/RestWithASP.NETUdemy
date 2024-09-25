@@ -1,7 +1,117 @@
 [
   {
     "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Get",
+    "Method": "Div",
+    "RelativePath": "Calculator/div/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Med",
+    "RelativePath": "Calculator/med/{firstNumber}/{secondNumber}/{terNumber}/{quadNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "terNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "quadNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Multi",
+    "RelativePath": "Calculator/multi/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Raiz",
+    "RelativePath": "Calculator/raiz/{firstNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Sub",
+    "RelativePath": "Calculator/sub/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
+    "Method": "Sum",
     "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
     "HttpMethod": "GET",
     "IsController": true,
