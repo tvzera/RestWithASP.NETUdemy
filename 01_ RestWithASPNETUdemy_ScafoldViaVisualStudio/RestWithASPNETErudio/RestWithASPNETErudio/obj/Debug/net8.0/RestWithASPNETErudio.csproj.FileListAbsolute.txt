@@ -31,3 +31,5 @@ D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_Scafo
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\obj\Debug\net8.0\RestWithASPNETErudio.csproj.AssemblyReference.cache
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\obj\Debug\net8.0\RestWith.4A7A3E6A.Up2Date
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\obj\Debug\net8.0\RestWithASPNETErudio.MvcApplicationPartsAssemblyInfo.cs

@@ -1,8 +1,8 @@
 ﻿using RestWithASPNETErudio.Controllers.Model;
 
-namespace RestWithASPNETErudio.Services
+namespace RestWithASPNETErudio.Repository
 {
-    public interface IPersonService
+    public interface IPersonRepository
     {
         Person Create(Person person);
 
@@ -13,5 +13,7 @@ namespace RestWithASPNETErudio.Services
         Person Update(Person person);
 
         void Delete(long id);
+
+        bool Exists(long id);
     }
 }
