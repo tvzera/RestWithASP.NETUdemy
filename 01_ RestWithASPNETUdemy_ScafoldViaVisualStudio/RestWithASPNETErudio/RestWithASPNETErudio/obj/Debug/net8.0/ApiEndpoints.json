@@ -1,130 +1,73 @@
 [
   {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Div",
-    "RelativePath": "Calculator/div/{firstNumber}/{secondNumber}",
+    "ContainingType": "RestWithASPNETErudio.Controllers.PersonController",
+    "Method": "Get",
+    "RelativePath": "api/Person",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETErudio.Controllers.PersonController",
+    "Method": "Post",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "RestWithASPNETErudio.Controllers.Model.Person",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Med",
-    "RelativePath": "Calculator/med/{firstNumber}/{secondNumber}/{terNumber}/{quadNumber}",
-    "HttpMethod": "GET",
+    "ContainingType": "RestWithASPNETErudio.Controllers.PersonController",
+    "Method": "Put",
+    "RelativePath": "api/Person",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "terNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "quadNumber",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "RestWithASPNETErudio.Controllers.Model.Person",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Multi",
-    "RelativePath": "Calculator/multi/{firstNumber}/{secondNumber}",
+    "ContainingType": "RestWithASPNETErudio.Controllers.PersonController",
+    "Method": "Get",
+    "RelativePath": "api/Person/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
+        "Name": "id",
+        "Type": "System.Int64",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Raiz",
-    "RelativePath": "Calculator/raiz/{firstNumber}",
-    "HttpMethod": "GET",
+    "ContainingType": "RestWithASPNETErudio.Controllers.PersonController",
+    "Method": "Delete",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Sub",
-    "RelativePath": "Calculator/sub/{firstNumber}/{secondNumber}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestWithASPNETErudio.Controllers.CalculatorController",
-    "Method": "Sum",
-    "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
+        "Name": "id",
+        "Type": "System.Int64",
         "IsRequired": true
       }
     ],
