@@ -27,6 +27,11 @@ builder.Services.AddApiVersioning();
 builder.Services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
 builder.Services.AddScoped<IPersonRepository, PersonRepositoryImplementation>();
 
+builder.Services.AddScoped<IBooksBusiness, BooksBusinessImplementation>();
+builder.Services.AddScoped<IBooksRepository, BooksRepositoryImplementation>();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

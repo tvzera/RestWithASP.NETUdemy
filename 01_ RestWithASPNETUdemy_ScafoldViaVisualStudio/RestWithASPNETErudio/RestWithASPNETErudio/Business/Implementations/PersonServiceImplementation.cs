@@ -18,8 +18,7 @@ namespace RestWithASPNETErudio.Business.Implementations
 
         public Person Create(Person person)
         {
-           return _repository.Create(person);
-            
+            return _repository.Create(person);     
         }
 
         public void Delete(long id)

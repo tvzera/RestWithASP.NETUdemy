@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\bookrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\business\\ibooksbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\ibooksbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\business\\implementations\\booksserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\implementations\\booksserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\business\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\repository\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\repository\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\controllers\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\code\\restwithasp-net5udemy\\restwithasp.netudemy\\01_ restwithaspnetudemy_scafoldviavisualstudio\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83FE620-005F-4FC8-B4C7-E3DDC78CFB62}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +66,209 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPersonBusiness.cs",
-              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:03:10.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonRepositoryImplementation.cs",
-              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwEQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:01:54.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IPersonRepository.cs",
               "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
               "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
               "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
               "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:01:00.012Z",
+              "WhenOpened": "2024-10-01T00:05:14.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonServiceImplementation.cs",
-              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
-              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BooksServiceImplementation.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\BooksServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\BooksServiceImplementation.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\BooksServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\BooksServiceImplementation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:55:24.054Z",
+              "WhenOpened": "2024-09-30T23:37:26.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IBooksBusiness.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IBooksBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\IBooksBusiness.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IBooksBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\IBooksBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:46:08.517Z",
+              "WhenOpened": "2024-09-30T23:36:50.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PersonRepositoryImplementation.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:25:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepositoryImplementation.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\Implementations\\BookRepositoryImplementation.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:25:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:56:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\IPersonBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:50:03.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySqlContext.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Context\\MySqlContext.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\Model\\Context\\MySqlContext.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Context\\MySqlContext.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\Model\\Context\\MySqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:29:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Repository\\IBooksRepository.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Repository\\IBooksRepository.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Repository\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:32:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:42:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\Model\\Person.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:40:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Books.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\Model\\Books.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\Model\\Books.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\Model\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:17:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
               "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
               "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvx8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T22:40:55.28Z",
+              "WhenOpened": "2024-09-30T23:53:38.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c621367b-0309-4804-a77d-59746c652fec",
+        "Display": 1,
+        "X": 62,
+        "Y": 756,
+        "Width": 1553,
+        "Height": 792,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\code\\RestWithASP-NET5Udemy\\RestWithASP.NETUdemy\\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:41:26.039Z",
               "EditorCaption": ""
             }
           ]

@@ -33,3 +33,14 @@ D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_Scafo
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\obj\Debug\net8.0\RestWith.4A7A3E6A.Up2Date
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\obj\Debug\net8.0\RestWithASPNETErudio.MvcApplicationPartsAssemblyInfo.cs
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Evolve.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\code\RestWithASP-NET5Udemy\RestWithASP.NETUdemy\01_ RestWithASPNETUdemy_ScafoldViaVisualStudio\RestWithASPNETErudio\RestWithASPNETErudio\bin\Debug\net8.0\Serilog.Sinks.File.dll
